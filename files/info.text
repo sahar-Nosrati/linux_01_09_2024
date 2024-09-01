@@ -57,6 +57,10 @@ current location is desktop and there are dogs cats etc , inside dogs there is p
     - if it has successful output -> return 0  (in command) -> check with -> echo $?
     - if it does not have successful output -> return non-0  (in command) -> check with -> echo $? -> stderr 
 
+- Brace expention -> generate arbitrary string 
+- 
 
 
---------------- Continue studu piping and exercise -> tomorrow----------------
+
+-------------Up to arithmatic expension----------------
+-------------Tomorrow finish this section-------------- 

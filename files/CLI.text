@@ -100,3 +100,10 @@
 - head -n18 all-pokemon.txt | tail -n3 -> show 18 first list in pokemon.txt then pipe to show last 3 items 
 - head -n151 all-pokemon.txt | tr -d 0-9 | sort -n -> show 18 first list in pokemon.txt then pipe to delete digits from 0-9 and pipe to sort according to alphabet 
 
+- echo text -> text 
+- ~ -> HOME DIRECTORY 
+- mkdir -p {Mon,Tuse,Wed}/{Breakfast,Lunch,dinner} -> create nested folders ->
+    - first create folders of Mon, Tuse, Wed. Then in each folder creates Breakfast, Lunch, dinner folders 
+
+
+
